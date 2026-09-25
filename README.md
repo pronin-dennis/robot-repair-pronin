@@ -13,4 +13,4 @@ Adventure Game: Robot Repair
 
 Треба буде дістати з End of starchild тайли для майбутніх практик у цьому,та починати потихеньку розбирати на атоми PSURG (aka Shark Atack 2014 року,а то вже заколібав все думати,роби вже)
 
-### That's all for now,numbnut
+### That's all for now,fella
